@@ -230,18 +230,6 @@ In `package.json`, the project defines the following scripts:
 
 ---
 
-## Screenshots
-
-> Placeholder: Add screenshots of the login page, signup page, and dashboard here.
-
-```md
-![Login Page](./screenshots/login.png)
-![Signup Page](./screenshots/signup.png)
-![Dashboard](./screenshots/dashboard.png)
-```
-
----
-
 ## Future Improvements
 
 The following are realistic enhancements that could be added in future versions, but are not part of the current implementation:
@@ -262,4 +250,4 @@ The following are realistic enhancements that could be added in future versions,
 
 - GitHub: https://github.com/SherwinjClitus
 
-Made with heart by Sherwin.
+Made with ❤️ by Sherwin.
